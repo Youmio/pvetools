@@ -22,7 +22,7 @@ for english user,please look the end of readme.
 
 ```
 export LC_ALL=en_US.UTF-8
-apt update && apt -y install git && git clone https://github.com/ivanhao/pvetools.git
+apt update && apt -y install git && git clone https://github.com/youmio/pvetools.git
 cd pvetools
 ./pvetools.sh
 ```
@@ -30,7 +30,7 @@ cd pvetools
 ### 一键无脑安装:
 
 ```
-echo "nameserver  8.8.8.8" >> /etc/resolv.conf && rm -rf pvetools && rm -rf /etc/apt/sources.list.d/pve-enterprise.list && export LC_ALL=en_US.UTF-8 && apt update && apt -y install git && git clone https://github.com/ivanhao/pvetools.git && echo "cd /root/pvetools && ./pvetools.sh" > pvetools/pvetools && chmod +x pvetools/pvetools* && ln -s /root/pvetools/pvetools /usr/local/bin/pvetools && pvetools
+echo "nameserver  8.8.8.8" >> /etc/resolv.conf && rm -rf pvetools && rm -rf /etc/apt/sources.list.d/pve-enterprise.list && export LC_ALL=en_US.UTF-8 && apt update && apt -y install git && git clone https://github.com/youmio/pvetools.git && echo "cd /root/pvetools && ./pvetools.sh" > pvetools/pvetools && chmod +x pvetools/pvetools* && ln -s /root/pvetools/pvetools /usr/local/bin/pvetools && pvetools
 ```
 
 ###### 方式二：下载zip安装
@@ -362,7 +362,7 @@ new feature:
 
 new feature:
 
-* 增加在pve中直接安装omv( [omvInPve](https://github.com/ivanhao/omvinpve))。
+* 增加在pve中直接安装omv( [omvInPve](https://github.com/youmio/omvinpve))。
 
 ##### v2.0.9
 
@@ -381,7 +381,7 @@ new feature:
 
 *   增加chroot自定义安装路径的功能。
 *   增加chroot docker迁移的功能。
- [wiki](https://github.com/ivanhao/pvetools/wiki/m--1-%E9%85%8D%E7%BD%AEdocker-web%E7%95%8C%E9%9D%A2)
+ [wiki](https://github.com/youmio/pvetools/wiki/m--1-%E9%85%8D%E7%BD%AEdocker-web%E7%95%8C%E9%9D%A2)
 
 ##### v2.0.7
 
@@ -391,7 +391,7 @@ new feature:
 
 *   增加安装NFS的功能。
 
-##### [](https://github.com/ivanhao/pvetools#v206-1)v2.0.6
+##### [](https://github.com/youmio/pvetools#v206-1)v2.0.6
 
 发布时间：2019.11.20
 
@@ -400,7 +400,7 @@ new feature:
 *   增加常用工具，此版本增加了局域网扫描
 *   修复dockerd启动bug
 
-##### [](https://github.com/ivanhao/pvetools#v205)v2.0.5
+##### [](https://github.com/youmio/pvetools#v205)v2.0.5
 
 发布时间：2019.11.14
 
@@ -462,7 +462,7 @@ Use root accout to run.
 
 ```
 export LC_ALL=en_US.UTF-8
-apt update && apt -y install git && git clone https://github.com/ivanhao/pvetools.git
+apt update && apt -y install git && git clone https://github.com/youmio/pvetools.git
 cd pvetools
 ./pvetools.sh
 ```
