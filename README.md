@@ -75,65 +75,6 @@ echo "nameserver  8.8.8.8" >> /etc/resolv.conf && rm -rf pvetools && rm -rf /etc
 
 #### 如果这个脚本帮到你了，麻烦点一下右上角的star小星星^_^
 
-## qq交流群: 878510703
-
-![qq](http://upload-images.jianshu.io/upload_images/4171480-e0204ead0fb41d5e.jpg)
-
-## 如果觉得好的请捐赠一下^_^
-![alipay](https://upload-images.jianshu.io/upload_images/4171480-04c3ebb5c11cfdf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-感谢捐赠人员！
-
-捐赠列表：
-
-杨惠(来源qq)
-
-蓝蓝的天空（来源qq）
-
-久别重逢（来源qq）
-
-小呀嘛小Kiwi（来源qq)
-
-*兴乐（来源支付宝）
-
-孤独的根号三 （来源qq）
-
-我心依旧丶(来源qq)
-
-*俊磊（来源支付宝）
-
-*家鑫（来源支付宝）
-
-*小虎（来源支付宝）
-
-*杭（来源支付宝）
-
-*伟（来源支付宝）
-
-*棘（来源支付宝）
-
-zm （来源qq）
-
-*阳 (来源支付宝)
-
-**鑫 (来源支付宝)
-
-**尧 (来源支付宝)
-
-*潋 (来源支付宝)
-
-**泽 (来源支付宝)
-
-**涛 (来源支付宝)
-
-*韬 (来源支付宝)
-
-**旭 (来源支付宝)
-
-**明 (来源支付宝)
-
-**锐 (来源支付宝)
 
 # [版本说明]
 
